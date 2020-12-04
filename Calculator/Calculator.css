@@ -1,0 +1,30 @@
+#tip__calc{
+    margin:4rem;
+    display: grid;
+    grid-template-columns: 15rem ;
+    grid-template-rows:5rem ;
+    justify-content: center;
+    align-items: center;
+}
+#bill{
+  height:50px;
+}
+#tip_perc{
+    height:50px; 
+}
+button{
+    margin-top:1rem;
+    height:50px; 
+    width:100%;
+    
+}
+input:hover{
+ background-color:lightgrey;
+}
+button:hover{
+    background-color:skyblue;
+}
+#result{
+    text-align: center;
+    font-size: 20px;
+}

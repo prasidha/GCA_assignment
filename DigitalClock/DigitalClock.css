@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#dg_clock{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:12rem auto;
+    background-color:rgb(31, 19, 19);
+    height: 100px;
+    width: 50%;
+}
+h1{
+    color:red;
+}
